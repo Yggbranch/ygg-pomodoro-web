@@ -4,7 +4,7 @@
 // API Base Selection
 // ─────────────────────────────────────────────────────────────────────────────
 const API_DEVELOPMENT = 'https://api-sync-branch.yggbranch.dev/';
-const API_DEPLOYMENT  = 'https://python-hello-world-911611650068.europe-west3.run.app/';
+const API_DEPLOYMENT  = 'https://pomodoro-911611650068.europe-west8.run.app/';
 
 // default to deployment
 let API_BASE = API_DEPLOYMENT;
